@@ -11,8 +11,8 @@
 	<groupId>cloudgateway</groupId>
 	<artifactId>cloudgateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cloudgateway</name>
-	<description>Spring Boot Microservices MySQL Cloud Gatewayt Service</description>
+	<name>finwiz-cloudgateway</name>
+	<description>Finwiz Cloud Gateway Service</description>
 	<url/>
 	<licenses>
 		<license/>
